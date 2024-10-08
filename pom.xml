@@ -71,6 +71,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>small-banking-app</finalName>
 	</build>
 
 </project>
